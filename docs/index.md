@@ -21,7 +21,7 @@ Discord offers a large variety of features, not all of which will be covered in 
 * [Other Features](other_features.md)
 * [Troubleshooting](troubleshooting.md)
 
-## Intro to Discord
+# Intro to Discord
 ### Getting Started
 This section will show you how to download Discord and create an account. Discord can be used on the website, but it is recommended that you use the app to have access to more features. 
 
