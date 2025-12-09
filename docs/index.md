@@ -8,15 +8,5 @@ Welcome to the "Discord for VT Clubs" user guide. This guide will outline how to
 
 Discord offers a large variety of features, not all of which will be covered in this guide. This guide takes a streamlined approach, cutting out all of the unnecessary noise of current discord documentation. Instead, it focuses only on the essentials of club communication. 
 
->[!Note]
->Although you can use the mobile app to set up your server, this guide focuses on how to setup a server using the desktop application. 
-
-## Sections
-* [Intro to Discord](intro.md)
-* [Discord Anatomy](discord_anatomy.md)
-* [Channels](channels.md)
-* [Roles and Permissions](roles_and_permissions.md)
-* [Sharing the server](sharing_server.md)
-* [Moderation](moderation.md)
-* [Other Features](other_features.md)
-* [Troubleshooting](troubleshooting.md)
+!!! note "Note"
+    Although you can use the mobile app to set up your server, this guide focuses on how to setup a server using the desktop application. 

@@ -1,0 +1,2 @@
+## Troubleshooting
+Our guide is streamlined and doesn't include everything. If you run into any technical problems, refer to [Discord's support site](https://support.discord.com/hc/en-us/categories/200404378).
