@@ -7,7 +7,7 @@
     * ex: programmer, writer 
 
 ### How to add a channel
-This section describes how to add a channel. If you need reference on what a channel is, or the different types of channels (ie. Voice vs. Text) see the [Discord Anatomy](Discord-Anatomy) section of this document.
+This section describes how to add a channel. If you need reference on what a channel is, or the different types of channels (ie. Voice vs. Text) see the [Discord Anatomy](discord_anatomy.md) section of this document.
 
 1. Locate the section you want to add a channel to (ex: Information, Text Channels)
 2. Click the **+ icon** next to the section name

@@ -12,7 +12,7 @@ Discord offers a large variety of features, not all of which will be covered in 
 >Although you can use the mobile app to set up your server, this guide focuses on how to setup a server using the desktop application. 
 
 ## Sections
-* [Intro to Discord](#Intro-to-Discord)
+* [Intro to Discord](#Intro to Discord)
 * [Discord Anatomy](discord_anatomy.md)
 * [Channels](channels.md)
 * [Roles and Permissions](roles_and_permissions.md)
