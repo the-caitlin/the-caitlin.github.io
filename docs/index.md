@@ -13,13 +13,13 @@ Discord offers a large variety of features, not all of which will be covered in 
 
 ## Sections
 * [Intro to Discord](#Intro-to-Discord)
-* [Discord Anatomy](Discord-Anatomy)
-* [Channels](#Channels)
-* [Roles and Permissions](#Roles-and-Permissions)
-* [Sharing the server](#Sharing-the-server)
-* [Moderation](#Moderation)
-* [Other Features](#Other-Features)
-* [Troubleshooting](#Troubleshooting)
+* [Discord Anatomy](discord_anatomy.md)
+* [Channels](channels.md)
+* [Roles and Permissions](roles_and_permissions.md)
+* [Sharing the server](sharing_server.md)
+* [Moderation](moderation.md)
+* [Other Features](other_features.md)
+* [Troubleshooting](troubleshooting.md)
 
 ## Intro to Discord
 ### Getting Started
