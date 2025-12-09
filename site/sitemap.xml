@@ -4,12 +4,8 @@
          <loc>https://githubusername.github.io/site/</loc>
          <lastmod>2025-12-09</lastmod>
     </url>
-    <url>
-         <loc>https://githubusername.github.io/site/channels/</loc>
-         <lastmod>2025-12-09</lastmod>
-    </url>
-    <url>
-         <loc>https://githubusername.github.io/site/creating_server/</loc>
+     <url>
+         <loc>https://githubusername.github.io/site/intro/</loc>
          <lastmod>2025-12-09</lastmod>
     </url>
     <url>
@@ -17,15 +13,11 @@
          <lastmod>2025-12-09</lastmod>
     </url>
     <url>
-         <loc>https://githubusername.github.io/site/intro/</loc>
+         <loc>https://githubusername.github.io/site/creating_server/</loc>
          <lastmod>2025-12-09</lastmod>
     </url>
     <url>
-         <loc>https://githubusername.github.io/site/moderation/</loc>
-         <lastmod>2025-12-09</lastmod>
-    </url>
-    <url>
-         <loc>https://githubusername.github.io/site/other_features/</loc>
+         <loc>https://githubusername.github.io/site/channels/</loc>
          <lastmod>2025-12-09</lastmod>
     </url>
     <url>
@@ -34,6 +26,14 @@
     </url>
     <url>
          <loc>https://githubusername.github.io/site/sharing_server/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/moderation/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/other_features/</loc>
          <lastmod>2025-12-09</lastmod>
     </url>
     <url>
