@@ -1,4 +1,3 @@
-
 ## Channels
 **Common Channels for Clubs**
 * Channels based on interests
@@ -7,7 +6,7 @@
     * ex: programmer, writer 
 
 ### How to add a channel
-This section describes how to add a channel. If you need reference on what a channel is, or the different types of channels (ie. Voice vs. Text) see the [Discord Anatomy](discord_anatomy.md) section of this document.
+This section describes how to add a channel. If you need reference on what a channel is, or the different types of channels (ie. Voice vs. Text) see the [Discord Anatomy](Discord-Anatomy) section of this document.
 
 1. Locate the section you want to add a channel to (ex: Information, Text Channels)
 2. Click the **+ icon** next to the section name
@@ -19,15 +18,15 @@ This section describes how to add a channel. If you need reference on what a cha
 
 ### Renaming Channels
 1. Right click on the channel name that you wish to rename
-2. Click **Edit Channel**
+2. Click **Edit Channel**<br>
 !['Edit channel' is located above 'Duplicate Channel' and below Notification Settings](https://hackmd.io/_uploads/BJzCfSb1Zx.png)
-4. Delete the current name of your channel from the **Channel Name** text box
+3. Delete the current name of your channel from the **Channel Name** text box
 ![The 'Channel Name' text box is located at the top of the 'Overview' screen](https://hackmd.io/_uploads/ByzPQrW1Wl.png)
-6. Type the desired name for your channel in this same box
-7. Press **Save Changes**
+4. Type the desired name for your channel in this same box
+5. Press **Save Changes**
 
 ### Removing Channels
 1. **Right click** on the channel you wish to delete
-2. Click **Delete Channel**
+2. Click **Delete Channel**<br>
 ![Delete Channel is located at the bottom of the popup bar](https://hackmd.io/_uploads/HkEPzBWyZx.png)
 4. Confirm you want to delete the channel by pressing **Delete Channel** on the new box that pops up
